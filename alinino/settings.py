@@ -25,10 +25,11 @@ SECRET_KEY = 'django-insecure-jf=_o5y8av2uq_rpod%l34s*fnd*+t)khhk#u5jtvn&2d52!2q
 ALLOWED_HOSTS = [
     ".onrender.com",
     '127.0.0.1',
-    "alinino1.onrender.com",
+    'localhost',
+    'alinino1.onrender.com',
 ]
 
-DEBUG = False
+DEBUG = True
 
 
  
